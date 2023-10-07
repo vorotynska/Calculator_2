@@ -6,3 +6,7 @@
 - Flexbox
 - The best way to cleanly handle user input
 - How to debug complicated edge case
+
+
+
+https://vorotynska.github.io/Calculator_2/
